@@ -1,7 +1,7 @@
 #!/bin/bash
 # Title           : iso3166-subdivisions.sh
 # Description     : Outputs a CSV with the subdivisions of the given countries, by querying the iso.org database
-# Author		       : Samuel Barbosa
+# Author          : Samuel Barbosa
 # Date            : 2025-06-24
 # Version         : 1.0
 # Usage           : echo -e 'BR\nUS\nIT' | ./iso3166-subdivisions.sh
